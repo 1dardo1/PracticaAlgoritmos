@@ -1,0 +1,3 @@
+C:/Users/usuario/CLionProjects/practicaExtraordinaria/cmake-build-debug/CMakeFiles/practicaExtraordinaria.dir
+C:/Users/usuario/CLionProjects/practicaExtraordinaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/usuario/CLionProjects/practicaExtraordinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
